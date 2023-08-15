@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "in.robolabs.ayini",
+            "sha256_cert_fingerprints": [
+                "27:31:EA:7B:C7:E7:EA:90:80:64:31:6A:87:65:C8:07:A0:D6:01:17:E5:B4:3E:65:BF:9D:03:80:56:30:C6:BE"
+            ]
+        }
+    }
+]
